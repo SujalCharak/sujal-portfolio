@@ -4,3 +4,8 @@ dist
 asset-src
 junk
 sanity-backups
+# Ignore large files
+frontend/public/videos/*
+frontend/public/fonts/*
+*.mp4
+*.ttf
